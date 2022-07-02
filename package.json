@@ -1,0 +1,14 @@
+{
+  "name": "first-node-app",
+  "version": "1.0.0",
+  "description": "This application was  just for  logging message on to the console and realizing and understanding different node modules",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zaputil-lib": "^1.0.0"
+  }
+}
